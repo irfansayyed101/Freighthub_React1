@@ -1,0 +1,22 @@
+{
+  "name": "freighthub-frontend-challenge",
+  "version": "1.0.0",
+  "description": "FreightHub Frontend Coding Challenge",
+  "main": "index.js",
+  "repository": "git@github.com:freight-hub/freighthub-frontend-challenge.git",
+  "author": "FreightHub Recruiting Team",
+  "license": "MIT",
+  "scripts": {
+    "server": "json-server --watch db.json --port 5000",
+    "client": "npm start --prefix client",
+    "dev": "concurrently --kill-others-on-fail \"npm run server\" \"npm run client\""
+  },
+  "dependencies": {
+    "json-server": "^0.14.2",
+    "react-bootstrap": "^1.0.0-beta.17",
+    "react-router-dom": "^5.1.2"
+  },
+  "devDependencies": {
+    "concurrently": "^5.1.0"
+  }
+}
