@@ -2,7 +2,7 @@
   "shipments": [
     {
       "id": "S1000",
-      "name": "T2-Shirts(Summer 2018) from Shanghai to Hamburg",
+      "name": "T-shirts(Summer2018) from Shanghai to Hamburg",
       "cargo": [
         {
           "type": "Fabric",
@@ -62,7 +62,7 @@
     },
     {
       "id": "S1002",
-      "name": "PO89634, PO27",
+      "name": "PO89634, PO27X",
       "cargo": [
         {
           "type": "Bikes model 27X",
@@ -108,7 +108,7 @@
     },
     {
       "id": "S1004",
-      "name": "New Furnitures from Shengens",
+      "name": "New Furnitures from Shengen",
       "cargo": [
         {
           "type": "Couch22 White",
@@ -159,7 +159,7 @@
     },
     {
       "id": "S1006",
-      "name": "Vacuum Cleaners s",
+      "name": "Vacuum Cleaners",
       "cargo": [
         {
           "type": "TVAC515",
@@ -190,7 +190,7 @@
     },
     {
       "id": "S1007",
-      "name": "Mattress(Medium)",
+      "name": "Mattress",
       "cargo": [
         {
           "type": "MAT128",
@@ -516,7 +516,7 @@
     },
     {
       "id": "S1020",
-      "name": "Neukrit 5a Ca5",
+      "name": "Neukrit 5a Cable",
       "cargo": [
         {
           "type": "Neukrit5a",
@@ -562,7 +562,7 @@
     },
     {
       "id": "S1022",
-      "name": "T1-shirts(Spring 2019) from Shanghai to Hamburg",
+      "name": "T-shirts(Spring 2019) from Shanghai to Hamburg",
       "cargo": [
         {
           "type": "Fabric",
@@ -590,7 +590,7 @@
     },
     {
       "id": "S1023",
-      "name": "New spering collection(2019)",
+      "name": "New spring collection(2019)",
       "cargo": [
         {
           "type": "Furniture",
