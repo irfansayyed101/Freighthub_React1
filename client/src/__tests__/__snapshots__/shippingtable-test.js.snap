@@ -1,0 +1,3 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<ShipmentTable /> with props  should match the snapshot 1`] = `"<table><thead><tr><th>Name</th><th>Mode</th><th>Type</th><th>Destination</th><th>Origin</th><th>Total</th><th>Status</th></tr></thead><tbody><tr><td>T2-Shirts(Summer 2018) from Shanghai to Hamburg</td><td>sea</td><td>FCL</td><td>Saarbrücker Str. 38, 10405 Berlin</td><td>Shanghai Port</td><td>1000</td><td>ACTIVE</td></tr></tbody></table>"`;
