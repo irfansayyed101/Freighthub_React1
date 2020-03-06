@@ -1,6 +1,5 @@
 import React, { useState,useEffect } from 'react';
 import './css/shippingDetails.css';
-import history from '../common/history';
 import FormComponent from '../components/FormComponent';
 
 const EditShipment = (props) => {

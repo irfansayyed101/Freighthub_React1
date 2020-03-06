@@ -236,7 +236,7 @@
     },
     {
       "id": "S1009",
-      "name": "Helmets",
+      "name": "Helmetsd",
       "cargo": [
         {
           "type": "HelmGoro",
