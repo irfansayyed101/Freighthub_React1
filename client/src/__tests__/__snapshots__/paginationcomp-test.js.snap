@@ -1,3 +1,0 @@
-// Jest Snapshot v1, https://goo.gl/fbAQLP
-
-exports[`<PaginationComp /> with props should match the snapshot 1`] = `"<div><div class=\\"pagination\\"><span class=\\"active\\">1</span><span class=\\"\\">2</span><span class=\\"\\">3</span></div></div>"`;
